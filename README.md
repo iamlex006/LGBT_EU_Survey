@@ -11,6 +11,7 @@ Content:
 - Visualisation of the results was done in tablean and can be found here: https://public.tableau.com/views/QESdetailed/b1_ab?:language=en-GB&:display_count=n&:origin=viz_share_link
 
 - The final presentation of the results is in QES Survey 20220210.pptx
+
 Note: The expected output for this project was a 5 minute presentation, not giving time to go into much detail, but a further analysis of the results would be very interesting and bring more insights. 
 
 With thanks to the EU Fundamental Rights Agency for conducting the survey and making the data available for analysis. 
